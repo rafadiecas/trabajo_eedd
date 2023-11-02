@@ -1,7 +1,7 @@
 a=2
-b=1
-c=4
 
-suma=a+b+c
+c=8
+
+suma=a+c
 
 print(suma)
